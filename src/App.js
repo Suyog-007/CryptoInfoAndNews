@@ -40,9 +40,9 @@ const App = () => (
           All Rights Reserved.
         </Typography.Title>
         <Space>
-         <div style={{color: 'white'}}>Home</div> 
-         <div style={{color: 'white'}}>Market</div> 
-         <div style={{color: 'white'}}>News</div> 
+          <div style={{ color: 'white' }}>Home</div>
+          <div style={{ color: 'white' }}>Market</div>
+          <div style={{ color: 'white' }}>News</div>
         </Space>
       </div>
     </div>
