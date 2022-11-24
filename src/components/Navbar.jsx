@@ -42,7 +42,7 @@ const Navbar = () => {
             {/* <HomeOutlined /> */}
             {/* <a href="http://127.0.0.1:5173/"> */}
             <a href="https://gilded-madeleine-f072d2.netlify.app/">
-              Home
+              Hom
             </a>
 
           </div>
